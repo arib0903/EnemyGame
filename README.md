@@ -1,5 +1,3 @@
-# EnemyGame
-
 # Functionality:
 - To recreate a PacMan type arcade game where the player moves on towards the opposing enemy and try to shoot at them. The enemy will advance onto the player if nearby, and will shoot at the player. The enemies will also shoot at each other if they are near eachother. 
 
